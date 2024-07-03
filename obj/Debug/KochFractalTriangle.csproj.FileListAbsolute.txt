@@ -1,0 +1,10 @@
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\bin\Debug\KochFractalTriangle.exe.config
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\bin\Debug\KochFractalTriangle.exe
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\bin\Debug\KochFractalTriangle.pdb
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\obj\Debug\KochFractalTriangle.csproj.AssemblyReference.cache
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\obj\Debug\KochFractalTriangle.Form1.resources
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\obj\Debug\KochFractalTriangle.Properties.Resources.resources
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\obj\Debug\KochFractalTriangle.csproj.GenerateResource.cache
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\obj\Debug\KochFractalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\obj\Debug\KochFractalTriangle.exe
+C:\Users\Asmareal\source\repos\KochFractalTriangle\KochFractalTriangle\obj\Debug\KochFractalTriangle.pdb
